@@ -1,0 +1,20 @@
+_tmp
+
+# -------------------------
+# IDE
+# -------------------------
+.idea/
+*.iml
+.settings
+.project
+.classpath
+
+# -------------------------
+# Maven
+# -------------------------
+target/
+dependency-reduced-pom.xml
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
