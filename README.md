@@ -1,5 +1,6 @@
-# Welcome to the Camunda Community Hub!
+# kamunda
 
-## A project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Camunda open source ecosystem.
+[![](https://img.shields.io/badge/Lifecycle-Incubating-blue)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#incubating-)
 
-For more information on how to get started in the Camunda Community Hub, please visit our [community repository](https://github.com/Camunda-Community-Hub/community)!
+Extensions and tools to make implementing camunda projects using [kotlin](https://kotlinlang.org) even more fun.
+
