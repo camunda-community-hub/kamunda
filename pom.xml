@@ -24,7 +24,7 @@
 
   <properties>
     <java.version>11</java.version>
-    <kotlin.version>1.4.32</kotlin.version>
+    <kotlin.version>1.9.21</kotlin.version>
 
     <encoding>UTF-8</encoding>
     <project.build.sourceEncoding>${encoding}</project.build.sourceEncoding>
